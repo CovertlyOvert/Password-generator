@@ -24,7 +24,7 @@ for y in range(0,nr_symbols):
 for z in range(0,nr_numbers):
   num=num+random.choice(numb.numbers)
 password = let+sym+num
-print (password)
+#print (password)
 
 
 #Hard Level - Order of characters randomised:
